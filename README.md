@@ -1,4 +1,6 @@
 # E-commerce Performance Insight Report
+[![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)]()
+[![SQL](https://img.shields.io/badge/SQL-SQL-blue?style=flat-square&logo=sql)]()
 
 ## Overview
 This project provides an enterprise-grade analysis of e-commerce sales performance and traffic acquisition efficiency for Q1 2026. The primary goal is to maximize **ROAS (Return on Ad Spend)** by identifying high-leverage opportunities for marketing optimization and ensuring the sustainability of "Anchor" product categories.
@@ -32,7 +34,8 @@ This project provides an enterprise-grade analysis of e-commerce sales performan
 
 ## Strategic Recommendations
 1. **Budget Rebalancing**: Shift 20% of budget from cost-inefficient channels to high-value drivers.
-2. **CRO (Conversion Rate Optimization)**: Focus on the "Decision Gap" (Interest $ightarrow$ Action) by introducing trust signals on product pages.
+2. **CRO (Conversion Rate Optimization)**: Focus on the "Decision Gap" (Interest $
+ightarrow$ Action) by introducing trust signals on product pages.
 3. **Regional Focus**: Launch targeted campaigns in the top 3 performing states.
 4. **LTV Maximization**: Implement a loyalty program to reduce reliance on expensive affiliate traffic.
 
