@@ -1,7 +1,9 @@
 # E-commerce Performance Insight Report
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)]()
 [![SQL](https://img.shields.io/badge/SQL-SQL-blue?style=flat-square&logo=sql)]()
-
+[![Quarto](https://img.shields.io/badge/-Quarto-blue?style=flat-square&logo=quarto)]()
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html)]()
+[![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat-square&logo=tableau)]()
 ## Overview
 This project provides an enterprise-grade analysis of e-commerce sales performance and traffic acquisition efficiency for Q1 2026. The primary goal is to maximize **ROAS (Return on Ad Spend)** by identifying high-leverage opportunities for marketing optimization and ensuring the sustainability of "Anchor" product categories.
 
