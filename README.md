@@ -8,7 +8,7 @@
 This project provides an enterprise-grade analysis of e-commerce sales performance and traffic acquisition efficiency for Q1 2026. The primary goal is to maximize **ROAS (Return on Ad Spend)** by identifying high-leverage opportunities for marketing optimization and ensuring the sustainability of "Anchor" product categories.
 
 ## 🚀 Live Report
-[View the interactive report here](https://beautiful-puffpuff-4e95a0.netlify.app/)
+[View the interactive report here](https://taupe-kataifi-5bf9c2.netlify.app/)
 
 ## Core Analysis Goals
 - **Revenue Dynamics**: Analyze total GMV vs. affiliate-driven GMV to assess platform dependency on external traffic.
