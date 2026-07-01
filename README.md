@@ -16,6 +16,12 @@ This project provides an enterprise-grade analysis of e-commerce sales performan
 - **ROAS**: Calculated based on affiliate GMV vs. commission costs.
 - **Overall CVR**: 2.50%
 
+## Tech Stack
+- **Programming Languages**: Python, SQL
+- **Data Analysis & Visualization**: Pandas, Plotly, NumPy
+- **Reporting & Documentation**: Quarto, Bootstrap (for HTML styling)
+- **BI Tools**: Tableau
+
 ## Project Structure
 - `report.html`: The final rendered performance report.
 - `report.qmd`: The Quarto source file containing the analysis logic, Python code, and narrative.
